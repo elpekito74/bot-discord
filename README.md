@@ -1,2 +1,3 @@
 # bot-discord
-bot pekito / la releve
+depot pour un futur bot discord qui révolutionnera le monde 
+
